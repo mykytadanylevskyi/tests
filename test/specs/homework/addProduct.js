@@ -1,5 +1,6 @@
 import { expect, browser, $ } from '@wdio/globals'
 
+
 describe ('addProduct',()=>{
     before(async()=>{
         await browser.url (`https://www.saucedemo.com/`)
