@@ -1,7 +1,10 @@
 #For the files in the wdioTests branch:
-Preconditions:
+
+**Preconditions:**
 1. new project is created in the vsCode
 2. wdio is installed in the vsCode in the new project
+
+**Steps:**
 
 1. Navigate to the `test\specs\homework` folder
 2. Download `addProduct.js` and `perfomLogin`.js files
